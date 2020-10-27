@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site',
+  title: 'soydev mx',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',

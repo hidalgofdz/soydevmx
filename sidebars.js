@@ -1,8 +1,7 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ['doc1', 'doc2', 'doc3'],
-    Features: ['mdx'],
-    "Ingeniería en Software": ["verification-and-validation"],
-    "Frontend": ["frontend-resources"]
+    "Desarrollo de Software": ["software-development-resources"],
+    "Frontend": ["frontend-resources"],
+    "Backend": ["backend-resources","doc1"]
   },
 };

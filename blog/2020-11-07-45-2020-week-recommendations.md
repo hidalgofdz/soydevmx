@@ -50,6 +50,9 @@ En él se explican nuevos enfoques para diseñar aplicaciones web que van desde 
 
 Miniserie de Netflix sobre una niña prodigio del ajedrez. Tiene solo 7 capítulos, un increíble diseño de vestuario y una historia envolvente. La recomiendo ver durante el fin de semana dado que no es el tipo de serie que puedes ver mientras scrolleas TikTok.
 
+
+No olviden tomar agüita.
+
 [organizing-code]: https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33
 [hexagonal-architecture-example]: https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/
 [queens-gambit]: https://www.imdb.com/title/tt10048342/

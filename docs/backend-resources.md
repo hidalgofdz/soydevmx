@@ -11,3 +11,4 @@ title: Recursos de Backend
 
 ### Epic React
 ### Testing Javascript
+## Diferentes tipos de arquitectura 

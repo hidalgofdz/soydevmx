@@ -13,8 +13,7 @@ Si la aplicación **será una API** de los cuales sus clientes serán una SPA o 
 
 Esto por que estos frameworks ya traen una buena configuración de infraestructura que les permitirá fácilmente meter Rate Limiting, Throttle, CORS, Manejo de CSRF, entre otras cosas.
  
- **Nota** si pueden prueben Phoenix que se ve prometedor pero al usar elixir que es un lenguaje funcional podría alentar al equipo al inicio.
-
+ **Nota** Prueben Phoenix que se ve prometedor pero al usar elixir que es un lenguaje funcional podría alentar al equipo al inicio
 
 # Configuración del ambiente
 
@@ -33,7 +32,13 @@ Esto por que estos frameworks ya traen una buena configuración de infraestructu
 - OpenAPI
 
 # Configuración del Framework de Pruebas
+
+**Nota** Deben ser capacez de ejecutar sus pruebas con un solo comando, o lo mas probable es que no lo hagan.
+
 ## Tipos de pruebas
+ Sigan el testing trophy (poner foto del testing trohpy)
+ 
+
 
 # Autenticación
 

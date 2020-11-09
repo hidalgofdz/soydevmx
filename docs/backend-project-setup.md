@@ -35,8 +35,13 @@ Esto por que estos frameworks ya traen una buena configuración de infraestructu
 
 **Nota** Deben ser capacez de ejecutar sus pruebas con un solo comando, o lo mas probable es que no lo hagan.
 
+**Nota 2** Agreguen la ejecucion de las pruebad a su pipeline de Continuos Integration. 
+
 ## Tipos de pruebas
  Sigan el testing trophy (poner foto del testing trohpy)
+ 
+ - Pruebas de API/Integracion
+ - Pruebas Unitarias
  
 
 
@@ -44,6 +49,10 @@ Esto por que estos frameworks ya traen una buena configuración de infraestructu
 
 - Dependiendo de tus clientes
 - Tal vez aqui mandar a un diagrama de decisión para que puedan elegir el mejor método de autenticación
+- Si es mobile que sea con token o Oauth2
+- Si es web en el mismo dominio o subdominio usen autenticacion con cookies o Oauth2(que usa cookie por detras 👀)
+- Si es web a un dominio diferente que sea via Oauth2(usa cookies por detras) o via token. NO GUARDES EL TOKEN EN SESSION STORAGE
+- Si es a server usen token
 
 # Autorización
 - Casbin (Go, Node)

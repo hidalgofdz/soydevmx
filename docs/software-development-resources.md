@@ -1,7 +1,7 @@
 ---
 id: software-development-resources 
 title: Recursos de Desarrollo de Software 
-slug: /
+slug: /software-development-resources
 ---
 Artículos, libros y podcast donde se habla de cada área del desarrollo de Software recomendados por desarrolladores. 
 
@@ -30,6 +30,7 @@ Artículos, libros y podcast donde se habla de cada área del desarrollo de Soft
 - [Software Architecture Perspectives on an Emerging Discipline](https://www.amazon.com.mx/Software-Architecture-Perspectives-Emerging-Discipline/dp/0131829572/ref=as_li_ss_tl?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=software+architecture+emerging+discipline&qid=1603858117&sr=8-15&linkCode=ll1&tag=soydevmx-20&linkId=40c112736f631d613edb61742652c4a8&language=es_MX)
 - [Solid Principles in PHP](https://laracasts.com/series/solid-principles-in-php)
 - [Design Pattern in PHP](https://laracasts.com/series/design-patterns-in-php)
+- [Hexagonal Architecture: three principles and an implementation example](https://blog.octo.com/en/hexagonal-architecture-three-principles-and-an-implementation-example/) Esta es la mejor explicación que he encontrado sobre la arquitectura hexagonal donde explica cada uno de sus conceptos y da un ejemplo de su implementación. También muestra como esta arquitectura cumple con ciertos principios de SOLID y da referencias para aprender más a fondo sobre la arquitectura y ver otras arquitecturas más "avanzadas" (como clean architecture y CQRS) para problemas más complejos.
 
 ## Construcción y Evolución de Software
 
@@ -39,6 +40,7 @@ Artículos, libros y podcast donde se habla de cada área del desarrollo de Soft
 - [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com.mx/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/ref=as_li_ss_tl?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2Y2H8DI7V0ORA&dchild=1&keywords=growing+object-oriented+software,+guided+by+tests&qid=1603857728&sprefix=growing+objec,aps,177&sr=8-1&linkCode=ll1&tag=soydevmx-20&linkId=fcbb86d7b60e2218902e85990acae422&language=es_MX)
 - [Learn You a Haskell for a Great Good!](https://www.amazon.com.mx/Learn-You-Haskell-Great-Good/dp/1593272839/ref=as_li_ss_tl?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=learn+you+a+haskell&qid=1603857746&sr=8-1&linkCode=ll1&tag=soydevmx-20&linkId=28e9a3b4cb86ea62ba07f2b5e82f6710&language=es_MX)
 - [Cracking the coding Interview](https://www.amazon.com.mx/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0984782850&pd_rd_r=8b60d4de-cb8d-46e0-a76b-595b34dad976&pd_rd_w=dJN20&pd_rd_wg=67iv9&pf_rd_p=ea348409-1420-4758-98af-37b8ced1fcb3&pf_rd_r=JVHEG2KV8N5CWH8NNH15&psc=1&refRID=JVHEG2KV8N5CWH8NNH15&linkCode=ll1&tag=soydevmx-20&linkId=a650428ee30d63227fec83574b33387f&language=es_MX)
+- [Four Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33) excelente artículo que muestra diferentes estrategias para estructurar los proyectos explicando sus ventajas y desventajas. 
 
 ## Requisitos de Software
  

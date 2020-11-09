@@ -28,7 +28,7 @@ A menos que haya algún requerimiento técnico de performance, facilidad para im
 Usen un **lenguaje tipado** o que tenga buen soporte en IDEs para encontrar errores sin necesidad de ejecutar la aplicación.
 - Recomiendo que elijan un lenguaje que tenga un **full-stack framework** como Laravel, Django, Ruby on Rails o Phoenix a menos que tengan necesidades muy particulares para la aplicación o tengan a un desarrollador con la experiencia necesaria para hacer el setup de infraestructura, seguridad y testing de un proyecto de Node, Golang o cualquier lenguaje que sus frameworks webs más populares sean considerados "minimal". 
  
- **Nota** prueben con Phoenix que se ve prometedor pero tengan cuidado dado que elixir es un lenguaje funcional y la curva de aprendizaje podría alentar al equipo al inicio.
+ **Nota** Prueben Phoenix que se ve prometedor pero al usar elixir que es un lenguaje funcional podría alentar al equipo al inicio
 
 # Configuración del ambiente
 
@@ -47,12 +47,27 @@ Usen un **lenguaje tipado** o que tenga buen soporte en IDEs para encontrar erro
 - OpenAPI
 
 # Configuración del Framework de Pruebas
+
+**Nota** Deben ser capacez de ejecutar sus pruebas con un solo comando, o lo mas probable es que no lo hagan.
+
+**Nota 2** Agreguen la ejecucion de las pruebad a su pipeline de Continuos Integration. 
+
 ## Tipos de pruebas
+ Sigan el testing trophy (poner foto del testing trohpy)
+ 
+ - Pruebas de API/Integracion
+ - Pruebas Unitarias
+ 
+
 
 # Autenticación
 
 - Dependiendo de tus clientes
 - Tal vez aqui mandar a un diagrama de decisión para que puedan elegir el mejor método de autenticación
+- Si es mobile que sea con token o Oauth2
+- Si es web en el mismo dominio o subdominio usen autenticacion con cookies o Oauth2(que usa cookie por detras 👀)
+- Si es web a un dominio diferente que sea via Oauth2(usa cookies por detras) o via token. NO GUARDES EL TOKEN EN SESSION STORAGE
+- Si es a server usen token
 
 # Autorización
 - Casbin (Go, Node)

@@ -87,5 +87,4 @@ Usen un **lenguaje tipado** o que tenga buen soporte en IDEs para encontrar erro
 - LintStaged
 
 # Code Organization
-
-- 
+ 

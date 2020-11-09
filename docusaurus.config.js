@@ -8,6 +8,11 @@ module.exports = {
   organizationName: 'hidalgofdz', // Usually your GitHub org/user name.
   projectName: 'soydevmx', // Usually your repo name.
   themeConfig: {
+    googleAnalytics: {
+      trackingID: 'G-8S77FVQJ8J',
+      // Optional fields.
+      anonymizeIP: true, // Should IPs be anonymized?
+    },
     navbar: {
       title: 'soydev',
       logo: {

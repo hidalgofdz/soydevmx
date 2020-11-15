@@ -29,4 +29,24 @@ Women sexual orientation
 4 startups killers
 https://www.nemil.com/musings/four-startup-eng-killers.html
 
+
+- bussines fundamentals are lost
+- proforma financial model in a honest way
+- where are customer are going to come from
+- have a clear roadmap 
+- human dynamics (ego needa to be checkout)
+  - dont comminciante
+  - dont buold a ciktire of siccess
+  dont communicate woth their business partners
+
+add the podcast that you listen
+
+- expect that when the 3 founders will get the 25 and then 
+
+
 the killing of a secret deer
+
+
+https://commute.substack.com/p/digital-commute-no-1
+
+

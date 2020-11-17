@@ -18,15 +18,14 @@ title: Configuración Inical de un Proyecto Backend
 1. [ ] Haz que tu aplicación pueda ser desplegada con un solo click o con Continuos Delivery
 1. [ ] Define un proceso para evitar el técnical depth de tu aplicación
 1. [ ] (Opcional) Dockeriza tu ambiente de desarrollo o por lo menos los servicios externos como la base de datos y redis 
-
-  
-   
+     
 # 1. Elige un Lenguaje y un Framework
 
 A menos que haya algún requerimiento técnico de performance, facilidad para implementar frameworks como GraphQL, o hacer uso de bibliotecas de análisis de datos, se recomienda que se elija uno donde el equipo se sienta cómodo. Les diría que consideren:
 
 Usen un **lenguaje tipado** o que tenga buen soporte en IDEs para encontrar errores sin necesidad de ejecutar la aplicación.
 - Recomiendo que elijan un lenguaje que tenga un **full-stack framework** como Laravel, Django, Ruby on Rails o Phoenix a menos que tengan necesidades muy particulares para la aplicación o tengan a un desarrollador con la experiencia necesaria para hacer el setup de infraestructura, seguridad y testing de un proyecto de Node, Golang o cualquier lenguaje que sus frameworks webs más populares sean considerados "minimal". 
+
  
  **Nota** Prueben Phoenix que se ve prometedor pero al usar elixir que es un lenguaje funcional podría alentar al equipo al inicio
 
@@ -87,4 +86,4 @@ Usen un **lenguaje tipado** o que tenga buen soporte en IDEs para encontrar erro
 - LintStaged
 
 # Code Organization
- 
+

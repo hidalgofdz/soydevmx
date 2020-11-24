@@ -43,7 +43,7 @@ En esta serie de artículos el autor Nemil Dahal, nos explica a más detalle las
 
 ### Four Startup Engineering Killers
 
-Al principio de la semana descubrí que **el uso de tecnología inmadura** y los **problemas entre gente producto y administrativos** son _startup killers_ uy comunes en las empresas de software cuando están iniciando. Estas y otras 2 _startup killers_ son explicadas a más detalle en [Four Startup Engineering Killers](https://www.nemil.com/musings/four-startup-eng-killers.html). ¿Cuantos has visto en tu empresa? 
+Al principio de la semana descubrí que **el uso de tecnología inmadura** y los **problemas entre gente producto y administrativos** son _startup killers_ muy comunes en las empresas de software cuando están iniciando. Estas y otras 2 _startup killers_ son explicadas a más detalle en [Four Startup Engineering Killers](https://www.nemil.com/musings/four-startup-eng-killers.html). ¿Cuantos has visto en tu empresa? 
  
 ### Paul Graham
  

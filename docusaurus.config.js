@@ -84,6 +84,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} soydev. Built with Docusaurus.`,
     },
   },
+  plugins: ['@docusaurus/plugin-ideal-image'],
   presets: [
     [
       '@docusaurus/preset-classic',

@@ -34,7 +34,7 @@ Esta semana terminé de leer [Crushing It](https://amzn.to/2UShKQT), uno de los 
 
 Gary Vaynerchuk es el CEO de [VaynerMedia](https://vaynermedia.com/), una compañía de marketing digital que trabaja con influencers y artistas como Dwayne "The Rock" Johnson y que además de llevar más de 11 años creando contenido digital es uno de los angel investors de Twitter y Uber. 
 
-Si eres una persona que siempre ha querido crear una marca personal, iniciar una empresa, ser streamer o simplemente crear contenido. Te recomiendo que leas este libro para inspirarte hacerlo. Sin este libro seguramente este blog no existiría.
+Si eres una persona que siempre ha querido crear una marca personal, iniciar una empresa, ser streamer o simplemente crear contenido. Este libro seguramente te inspirará a iniciar y te dará cierta claridad en como usar cada una de las redes sociales actuales para hacerlo. Este libro no tiene da una fórmula mágica, al contrario, Gary es muy claro en su premisa de que para lograr tus objetivos tienes que trabajar duro, tal vez hasta años, antes de que tu trabajo empiece a rendir frutos. Este libro es un balde de agua fría para poner tus objetivos de vida en perspectiva y estoy casi seguro que sin este libro este blog no existiría.
 
 ## The “Thank You” Economy
 

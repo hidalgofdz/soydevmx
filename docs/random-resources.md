@@ -1,0 +1,5 @@
+
+
+
+[Education Related Blog](https://www.tes.com/international/news) A fascinating blog because it discusses education theories and invite authors to debate criticisms  
+[Extreme Adjectives List](https://www.espressoenglish.net/extreme-adjectives-in-english/) sometimes we want to put more innuendo into an adjective. That's were extreme adjetives or non-gradable adjetives como into place. These are adjetives that cannot be grade using words like "really" or "a little" because they already mean the extreme. 

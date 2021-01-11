@@ -11,3 +11,7 @@ title: Recursos de Frontend
 
 ### Epic React
 ### Testing Javascript
+
+## Websites
+
+- [Web.dev](https://web.dev)

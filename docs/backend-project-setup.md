@@ -19,6 +19,7 @@ title: Configuración Inical de un Proyecto Backend
 1. [ ] Define un proceso para evitar el técnical depth de tu aplicación
 1. [ ] (Opcional) Dockeriza tu ambiente de desarrollo o por lo menos los servicios externos como la base de datos y redis 
 1. [ ] Create a repository and invite all your team members to it
+1. [ ] Crea un canal de comunicación entre el equipo
 
      
 # 1. Elige un Lenguaje y un Framework

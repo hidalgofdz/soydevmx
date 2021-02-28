@@ -8,6 +8,10 @@ module.exports = {
   organizationName: 'hidalgofdz', // Usually your GitHub org/user name.
   projectName: 'soydevmx', // Usually your repo name.
   themeConfig: {
+    algolia: {
+      apiKey: '67df48a321d5749fcccb3c23bcebdca6',
+      indexName: 'prod_soydev',
+    },
     gtag: {
       trackingID: 'G-8S77FVQJ8J',
       // Optional fields.

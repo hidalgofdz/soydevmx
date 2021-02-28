@@ -12,3 +12,7 @@ title: Recursos de Backend
 ### Epic React
 ### Testing Javascript
 ## Diferentes tipos de arquitectura 
+
+## Things to learn more about
+
+1. [Service Mesh (Aka Kubernetes)](https://www.nginx.com/blog/what-is-a-service-mesh/)

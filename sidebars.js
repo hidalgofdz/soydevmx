@@ -2,6 +2,7 @@ module.exports = {
   someSidebar: {
     "Desarrollo de Software": ["software-development-resources"],
     "Frontend": ["frontend-resources"],
-    "Backend": ["wip-alert","backend-project-setup"]
+    "Backend": ["wip-alert","backend-project-setup", "backend-resources"],
+    "Mis": ["quotes-i-like", "what-is-a-developer"]
   },
 };

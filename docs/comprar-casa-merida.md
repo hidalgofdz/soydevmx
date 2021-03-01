@@ -1,7 +1,10 @@
 ---
 id: comprar-casa-merida
-title: Comprar Casa en Mérida (Consideraciones)
-sidebar_label: Vida
+title: Consideraciones al comprar una casa  en Mérida
+keywords:
+ - casa
+ - merida
+ - compra
 slug: /comprar-casa-merida
 ---
 

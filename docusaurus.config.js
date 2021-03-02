@@ -1,7 +1,7 @@
 module.exports = {
   title: 'soydev',
   tagline: 'intentemos, fallemos, aprendamos',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://soydev.mx',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',

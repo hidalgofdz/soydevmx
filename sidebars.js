@@ -5,7 +5,8 @@ module.exports = {
     "Backend": ["wip-alert","backend-project-setup", "backend-resources"],
     "Vida": [
       "comprar-casa-merida",
-      "quotes-i-like"
+      "quotes-i-like",
+      "seeking-wisdom"
     ]
   },
 };

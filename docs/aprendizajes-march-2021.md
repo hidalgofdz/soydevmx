@@ -7,4 +7,4 @@ title: Aprendizajes de marzo 2021
 
 1. Los workshops no funcionan si son la única herramienta que se está utilizando para aprender un tema. Los workshops de paga que solo te enseñan lo básico son para mi un desperdicio de dinero y tiempo. Es mejor buscar recursos como libros, artículos o videos.
 
-
+1. Sentir que eres útil o necesario para tu equipo puede ser muy importante

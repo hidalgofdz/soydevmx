@@ -6,7 +6,11 @@ module.exports = {
     "Vida": [
       "comprar-casa-merida",
       "quotes-i-like",
-      "seeking-wisdom"
+      "seeking-wisdom",
+      "better-thinking"
+    ],
+    "Aprendizajes": [
+      "aprendizajes-marzo-2021"
     ]
   },
 };

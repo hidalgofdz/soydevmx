@@ -9,8 +9,9 @@ module.exports = {
   projectName: 'soydevmx', // Usually your repo name.
   themeConfig: {
     algolia: {
-      apiKey: '67df48a321d5749fcccb3c23bcebdca6',
+      apiKey: 'd6692025b805cb780e809fa09a2fdfa0',
       indexName: 'prod_soydev',
+      appId: "6EOMV875SD"
     },
     gtag: {
       trackingID: 'G-8S77FVQJ8J',

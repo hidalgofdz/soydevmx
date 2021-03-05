@@ -13,4 +13,4 @@ title: Aprendizajes de marzo 2021
 
 5. Ubícate en tu realidad, aunque de vez en cuando deja volar tu imaginación. Pero volar tanto puede empezar a pesarte.
 
-1. Hacer algo solo para complacer a los otros, te deja con una molestia. Si te sientes así lo lógico sería decir que no. La lealtad con uno mismo a veces cuesta.
+6. Hacer algo solo para complacer a los otros, te deja con una molestia. Si te sientes así lo lógico sería decir que no. La lealtad con uno mismo a veces cuesta.

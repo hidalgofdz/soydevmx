@@ -4,4 +4,4 @@ title: Cosas por aprender
 ---
 
 - Functional Programming with Haskell
-- Salesforce using salesforce traits
+- Salesforce using salesforce traits.

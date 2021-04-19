@@ -7,6 +7,8 @@ title: Recursos de Frontend
 
 ### Bytes - By ui.dev
 
+Muy buen [newsletter](https://bytes.dev/)
+
 ## Cursos
 
 ### Epic React
@@ -15,3 +17,4 @@ title: Recursos de Frontend
 ## Websites
 
 - [Web.dev](https://web.dev)
+- [Smashing Magazine](https://www.smashingmagazine.com/)

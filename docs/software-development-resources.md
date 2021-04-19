@@ -1,9 +1,10 @@
 ---
-id: software-development-resources 
-title: Recursos de Desarrollo de Software 
+id: software-development-resources
+title: Recursos de Desarrollo de Software
 slug: /software-development-resources
 ---
-Artículos, libros y podcast donde se habla de cada área del desarrollo de Software recomendados por desarrolladores. 
+
+Artículos, libros y podcast donde se habla de cada área del desarrollo de Software recomendados por desarrolladores.
 
 ## Computación esencial
 
@@ -16,8 +17,8 @@ Artículos, libros y podcast donde se habla de cada área del desarrollo de Soft
 
 ## Calidad de Software/Verificación y validación
 
-* [Test Driven Development By Example](https://www.amazon.com.mx/gp/product/0321146530/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321146530&linkCode=as2&tag=soydevmx-20&linkId=d4aaf9e6af2bbd666525d4d39c1a1b05)
-* [The art of Unit Testing](https://www.amazon.com.mx/gp/product/1617290890/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617290890&linkCode=as2&tag=soydevmx-20&linkId=5d24d2654355af0581489dcc0b42e62f)
+- [Test Driven Development By Example](https://www.amazon.com.mx/gp/product/0321146530/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321146530&linkCode=as2&tag=soydevmx-20&linkId=d4aaf9e6af2bbd666525d4d39c1a1b05)
+- [The art of Unit Testing](https://www.amazon.com.mx/gp/product/1617290890/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1617290890&linkCode=as2&tag=soydevmx-20&linkId=5d24d2654355af0581489dcc0b42e62f)
 
 ## Diseño y Arquitectura de Software
 
@@ -40,10 +41,10 @@ Artículos, libros y podcast donde se habla de cada área del desarrollo de Soft
 - [Growing Object-Oriented Software, Guided by Tests](https://www.amazon.com.mx/Growing-Object-Oriented-Software-Guided-Tests/dp/0321503627/ref=as_li_ss_tl?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2Y2H8DI7V0ORA&dchild=1&keywords=growing+object-oriented+software,+guided+by+tests&qid=1603857728&sprefix=growing+objec,aps,177&sr=8-1&linkCode=ll1&tag=soydevmx-20&linkId=fcbb86d7b60e2218902e85990acae422&language=es_MX)
 - [Learn You a Haskell for a Great Good!](https://www.amazon.com.mx/Learn-You-Haskell-Great-Good/dp/1593272839/ref=as_li_ss_tl?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=learn+you+a+haskell&qid=1603857746&sr=8-1&linkCode=ll1&tag=soydevmx-20&linkId=28e9a3b4cb86ea62ba07f2b5e82f6710&language=es_MX)
 - [Cracking the coding Interview](https://www.amazon.com.mx/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=as_li_ss_tl?_encoding=UTF8&pd_rd_i=0984782850&pd_rd_r=8b60d4de-cb8d-46e0-a76b-595b34dad976&pd_rd_w=dJN20&pd_rd_wg=67iv9&pf_rd_p=ea348409-1420-4758-98af-37b8ced1fcb3&pf_rd_r=JVHEG2KV8N5CWH8NNH15&psc=1&refRID=JVHEG2KV8N5CWH8NNH15&linkCode=ll1&tag=soydevmx-20&linkId=a650428ee30d63227fec83574b33387f&language=es_MX)
-- [Four Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33) excelente artículo que muestra diferentes estrategias para estructurar los proyectos explicando sus ventajas y desventajas. 
+- [Four Strategies for Organizing Code](https://medium.com/@msandin/strategies-for-organizing-code-2c9d690b6f33) excelente artículo que muestra diferentes estrategias para estructurar los proyectos explicando sus ventajas y desventajas.
 
 ## Requisitos de Software
- 
+
 - [Software Requirements 3rd Edition](https://www.amazon.com.mx/gp/product/0735679665/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0735679665&linkCode=as2&tag=soydevmx-20&linkId=74db9b741baf7730473c696a4d2344ed)
 - [Writing Effective Use Cases](https://www.amazon.com.mx/Writing-Effective-Cases-Alistair-Cockburn/dp/0201702258/ref=as_li_ss_tl?__mk_es_MX=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=writing+effective+use+case&qid=1603857706&sr=8-1&linkCode=ll1&tag=soydevmx-20&linkId=23089320ee72f7ea8c47d8c0bf9e6c9d&language=es_MX)
 
@@ -62,10 +63,10 @@ Artículos, libros y podcast donde se habla de cada área del desarrollo de Soft
 
 ## Seguridad
 
-- [OWASP (Open Web Application Security Project)](https://owasp.org/) Organización que trabaja para incrementar la seguridad en el Software 
+- [OWASP (Open Web Application Security Project)](https://owasp.org/) Organización que trabaja para incrementar la seguridad en el Software
 - [OAuth2 Documentation](https://oauth.net/2/) para aprender sobre como tener una correcta autorización y autenticación en aplicaciones web.
 
 ## Desarrollo de Software en general
 
 - [Playbook de thoughtbot](https://thoughtbot.com/playbook) que nos permite entrever un poco del proceso de trabajo de la empresa.
-- [Soft Skills Engineering](https://softskills.audio/) podcast donde se le hace preguntas sobre soft skills de la vida real a los host para den su opinión como desarrolladores. 
+- [Soft Skills Engineering](https://softskills.audio/) podcast donde se le hace preguntas sobre soft skills de la vida real a los host para den su opinión como desarrolladores.

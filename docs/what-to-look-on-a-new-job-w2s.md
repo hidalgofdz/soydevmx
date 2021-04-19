@@ -1,6 +1,6 @@
 ---
 id: what-to-look-on-a-new-job-w2s
-title: What to look on a new job 
+title: What to look on a new job
 ---
 
 ## Notas

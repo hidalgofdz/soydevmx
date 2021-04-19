@@ -20,19 +20,19 @@ Demos un ejemplo en código. Digamos que tenemos una función que mueve dinero e
 ```js
 // Given
 // Una cuenta sender que tiene 100 pesos
-const sender = new Account()
-sender.addFunds("100")
+const sender = new Account();
+sender.addFunds("100");
 // y una cuenta receiver que tiene 0 pesos
-const receiver = new Account()
+const receiver = new Account();
 
 // When
 // se hace una transacción de 75 pesos de la cuenta sender a la cuente receiver
 const transaction = moveFunds(sender, receiver, "75");
 // Then
 // espero que la transacción tenga un estado de "COMPLETED"
-expect(transaction.status).toEqual("COMPLETED")
+expect(transaction.status).toEqual("COMPLETED");
 // y que la cuenta sender ahora tenga un balance de 25 pesos
-expect(sender.balance).toEqual("25")
+expect(sender.balance).toEqual("25");
 // y que la cuenta receiver tenga un balance de 75 pesos
 expect(receiver.balance).toEqual("75");
 ```
@@ -44,19 +44,19 @@ Demos otro ejemplo en código. Retomemos nuestra función `moveFunds`y hagamos u
 ```js
 // Given
 // Una cuenta sender que tiene 100 pesos
-const sender = new Account()
-sender.addFunds("100")
+const sender = new Account();
+sender.addFunds("100");
 // y una cuenta receiver que tiene 0 pesos
-const receiver = new Account()
+const receiver = new Account();
 
 // When
 // se hace una transacción de 101 pesos de la cuenta sender a la cuente receiver
 const transaction = moveFunds(sender, receiver, "101");
 // Then
 // espero que la transacción tenga un estado de "FAILED"
-expect(transaction.status).toEqual("FAILED")
+expect(transaction.status).toEqual("FAILED");
 // y que la cuenta sender mantuvo su balance original
-expect(sender.balance).toEqual("100")
+expect(sender.balance).toEqual("100");
 // y que la cuenta receiver también mantuvo su balance original
 expect(receiver.balance).toEqual("0");
 ```
@@ -65,16 +65,15 @@ expect(receiver.balance).toEqual("0");
 
 El testing es una herramienta para darnos confianza de que el código que estamos desarrollando se comporta de la manera en como esperamos. Nos da la libertad de alterarlo, modificarlo y jugar con él con la certeza que si al final del día todas las pruebas pasan entonces nuestra aplicación funciona. Además, si juntas buenas pruebas con una buena configuración de continuous integration puedes estar por seguro que los errores en producción disminuirán considerablemente.
 
-
 ## ¿Y ahora qué?
 
 - Recomiendo que leas más a detalle sobre el patrón [GivenWhenThen](https://martinfowler.com/bliki/GivenWhenThen.html).
-- También que también leas esta [guía](https://martinfowler.com/articles/practical-test-pyramid.html) sobre los diferentes tipos de testing. Es la guía más completa que he encontrado hasta ahora. 
+- También que también leas esta [guía](https://martinfowler.com/articles/practical-test-pyramid.html) sobre los diferentes tipos de testing. Es la guía más completa que he encontrado hasta ahora.
 - Si tienes que hacer testing de Front end con React. Kent C Dodds recomiendo que sigas a Kent C Dodds. Aquí hay una [lista de sus artículos sobre testing](https://kentcdodds.com/testing/)
 
 ## Notas
 
-- Los tests automatizados, si están bien escritos, pueden servir como un documento vivo que nuevos  desarrolladores que entren al equipo pueden usar para entender y aprender como funciona una aplicación. Tener tests que expliquen los "happy paths" y los "edge cases" que puede tener una feature o cuales son los inputs y outputs esperados para una función son una forma valiosa de enseñar el comportamiento de la aplicación sin tener que adentrarse a ver el código a detalle.
+- Los tests automatizados, si están bien escritos, pueden servir como un documento vivo que nuevos desarrolladores que entren al equipo pueden usar para entender y aprender como funciona una aplicación. Tener tests que expliquen los "happy paths" y los "edge cases" que puede tener una feature o cuales son los inputs y outputs esperados para una función son una forma valiosa de enseñar el comportamiento de la aplicación sin tener que adentrarse a ver el código a detalle.
 - Qué es testing?
 - Cómo se puede ver el testing en un entorno ágil?
 - Por qué testing

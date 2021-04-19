@@ -17,12 +17,10 @@ title: "Book Notes: The Coaching Habit"
 
 ### 4. La pregunta de fundamentos
 
-### 5. La pregunta perezosa 
-### 6. La pregunta de estrategia 
+### 5. La pregunta perezosa
+
+### 6. La pregunta de estrategia
 
 ### 7. La pregunta para aprender
 
-
 ### 6. La pregunta
-
-

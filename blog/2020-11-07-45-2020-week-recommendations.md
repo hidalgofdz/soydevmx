@@ -2,7 +2,7 @@
 slug: 45-2020-week-recommendations
 title: (45-2020) Recomendaciones de la semana
 author: Hidalgo José Fernández Pech
-author_title: Tsundoku master 
+author_title: Tsundoku master
 author_url: https://github.com/hidalgofdz
 author_image_url: https://avatars3.githubusercontent.com/u/5541077?v=4
 tags: [recomendaciones-semana]
@@ -27,18 +27,18 @@ Todos el contenido sobre desarrollo lo pueden encontrar en esta <Link to={SOFTWA
 [David Thomas][pragdave], uno de los autores del agile manifesto, nos cuenta su perspectiva actual de la metodología agile y como está se ha convertido en un negocio. ¿Acaso hay manera de salvarla?. Gracias a [Romario López](https://twitter.com/romariolopezc) por mostrarme el video 😘.
 
 ## [Four Strategies for Organizing Code][organizing-code]
- 
- Excelente [artículo][organizing-code] que habla sobre las diferentes estrategias para estructurar los proyectos explicando sus ventajas y desventajas. En lo particular a mí me encantaría ver más proyectos organizados por *componentes* pero es más común ver proyectos organizados *por tipo*. 😞
- 
+
+Excelente [artículo][organizing-code] que habla sobre las diferentes estrategias para estructurar los proyectos explicando sus ventajas y desventajas. En lo particular a mí me encantaría ver más proyectos organizados por _componentes_ pero es más común ver proyectos organizados _por tipo_. 😞
+
 ## [Hexagonal Architecture: three principles and an implementation example][hexagonal-architecture-example]
 
 [Esta es la mejor explicación][hexagonal-architecture-example] que he encontrado sobre la arquitectura hexagonal 📐 donde explica cada uno de sus conceptos y da un ejemplo de su implementación.
- 
- También muestra como esta arquitectura cumple con ciertos principios de [SOLID](https://en.wikipedia.org/wiki/SOLID) y da referencias para aprender más a fondo sobre la arquitectura y ver otras arquitecturas más "avanzadas" (como clean architecture y CQRS) para problemas más complejos.
+
+También muestra como esta arquitectura cumple con ciertos principios de [SOLID](https://en.wikipedia.org/wiki/SOLID) y da referencias para aprender más a fondo sobre la arquitectura y ver otras arquitecturas más "avanzadas" (como clean architecture y CQRS) para problemas más complejos.
 
 ## [If not SPAs, What?][if-not-pwas-what]
 
-Este [post][if-not-pwas-what] que descubrí gracias al newsletter [UI Bytes](https://ui.dev/newsletters/bytes/) me abrió los ojos a que hay más en el mundo del desarrollo web que hacer SPAs o monolitos. 
+Este [post][if-not-pwas-what] que descubrí gracias al newsletter [UI Bytes](https://ui.dev/newsletters/bytes/) me abrió los ojos a que hay más en el mundo del desarrollo web que hacer SPAs o monolitos.
 
 En él se explican nuevos enfoques para diseñar aplicaciones web que van desde frameworks de javascript que están tratando de facilitar la implementación del [Jamstack](https://jamstack.org/), a el caso opuesto con frameworks como [Laravel Livewire](https://laravel-livewire.com/) que están intentando obtener los beneficios de usar bibliotecas como React sin que tengas que escribir una línea de Javascript.
 
@@ -49,7 +49,6 @@ En él se explican nuevos enfoques para diseñar aplicaciones web que van desde 
 </div>
 
 Miniserie de Netflix sobre una niña prodigio del ajedrez. Tiene solo 7 capítulos, un increíble diseño de vestuario y una historia envolvente. La recomiendo ver durante el fin de semana dado que no es el tipo de serie que puedes ver mientras scrolleas TikTok.
-
 
 No olviden tomar agüita.
 

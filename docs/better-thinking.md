@@ -2,7 +2,7 @@
 id: better-thinking
 title: Better Thinking
 keywords:
- - thinking
+  - thinking
 ---
 
 [Barbara Oakley](https://barbaraoakley.com/) popularized the concept of Focused and Diffused thinking. Being both equally important. The former is when we get into a state of deep focus and, the latter when we allow our minds to wander free.

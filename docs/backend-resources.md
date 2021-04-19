@@ -10,8 +10,10 @@ title: Recursos de Backend
 ## Cursos
 
 ### Epic React
+
 ### Testing Javascript
-## Diferentes tipos de arquitectura 
+
+## Diferentes tipos de arquitectura
 
 ## Things to learn more about
 

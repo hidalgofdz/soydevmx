@@ -3,7 +3,6 @@ id: ux-design-insights
 title: Conocimiento de UX Design
 ---
 
-
 ## Stakeholder Interviews
 
 Un stakeholder, es cualquier persona que puede dar insights o conocimiento para facilitar el proceso de diseño de un producto o servicio. Pueden ser personas en cualquier posición, no solo los altos mandos si hablamos de stakeholders en una empresa, pueden ser altos mando, altos bajos, clientes, etc.
@@ -19,5 +18,3 @@ Este tipo de entrevistas buscan obtener más información sobre las siguientes �
 Fuentes:
 
 [The ultimate guide to stakeholder interviews: understand your clients](https://uxdesign.cc/the-ultimate-guide-to-stakeholder-interviews-understand-your-clients-a3bcf87b6e8b#:~:text=What%20Are%20Stakeholder%20Interviews%3F,help%20simplify%20the%20design%20process.)
-
-
